@@ -124,6 +124,8 @@ $RECYCLE.BIN/
 # Linux system files
 *.swp
 *~
+\#*\#
+.\#*
 
 # IDE specific
 *.iml
